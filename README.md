@@ -1,4 +1,4 @@
-# eBook App - Flutter UI
+# Library Flutter App
 
 ## [Watch it on YouTube](https://youtu.be/ACdraZRANaU)
 
